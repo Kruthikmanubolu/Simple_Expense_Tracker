@@ -74,9 +74,10 @@ The interface uses **Tailwind CSS** for consistent and responsive styling:
 - Clone or download the repository.
 - Navigate to the project folder:
   ```bash
-cd <project-folder>
-npm install
-npm run dev
-http://localhost:5173
+  cd <project-folder>
+  npm install
+  npm run dev
+  http://localhost:5173
+
 ## Optional Deployment
 npm run build
